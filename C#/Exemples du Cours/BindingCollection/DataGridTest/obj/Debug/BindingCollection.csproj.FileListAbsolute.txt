@@ -1,0 +1,41 @@
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\bin\Debug\DataGridTest.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\bin\Debug\DataGridTest.exe
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\bin\Debug\DataGridTest.pdb
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\DataGridTest_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\DataGridTest_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\DataGridTest.g.resources
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\DataGridTest.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\BindingCollection.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\DataGridTest.exe
+c:\users\admin\documents\visual studio 2017\Projects\DataGridTest\DataGridTest\obj\Debug\DataGridTest.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\bin\Debug\DataGridTest.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\bin\Debug\DataGridTest.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\bin\Debug\DataGridTest.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\BindingCollection.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\DataGridTest_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\DataGridTest_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\DataGridTest.g.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\DataGridTest.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\BindingCollection.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\DataGridTest.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingCollectionOK\DataGridTest\obj\Debug\DataGridTest.pdb
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\bin\Debug\DataGridTest.exe.config
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\bin\Debug\DataGridTest.exe
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\bin\Debug\DataGridTest.pdb
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\BindingCollection.csprojResolveAssemblyReference.cache
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\MainWindow.g.cs
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\App.g.cs
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\DataGridTest_MarkupCompile.cache
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\DataGridTest_MarkupCompile.lref
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\MainWindow.baml
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\DataGridTest.g.resources
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\DataGridTest.Properties.Resources.resources
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\BindingCollection.csproj.GenerateResource.Cache
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\DataGridTest.exe
+Z:\Divers\BindingExemples\BindingCollection\DataGridTest\obj\Debug\DataGridTest.pdb

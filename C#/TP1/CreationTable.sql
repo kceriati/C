@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[LISTECOURSES] (
+    [Id]       INT        NOT NULL IDENTITY,
+    [LIBELLE]  NCHAR (50) NULL,
+    [QUANTITE] INT        NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+

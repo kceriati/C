@@ -1,0 +1,7 @@
+P:\C#\C#\2020-2021\TPs\TP1\TP1Debug\TP1Debug\TP1Debug\obj\Debug\TP1Debug.csprojAssemblyReference.cache
+P:\C#\C#\2020-2021\TPs\TP1\TP1Debug\TP1Debug\TP1Debug\obj\Debug\TP1Debug.csproj.CoreCompileInputs.cache
+P:\C#\C#\2020-2021\TPs\TP1\TP1Debug\TP1Debug\TP1Debug\bin\Debug\TP1Debug.exe.config
+P:\C#\C#\2020-2021\TPs\TP1\TP1Debug\TP1Debug\TP1Debug\bin\Debug\TP1Debug.exe
+P:\C#\C#\2020-2021\TPs\TP1\TP1Debug\TP1Debug\TP1Debug\bin\Debug\TP1Debug.pdb
+P:\C#\C#\2020-2021\TPs\TP1\TP1Debug\TP1Debug\TP1Debug\obj\Debug\TP1Debug.exe
+P:\C#\C#\2020-2021\TPs\TP1\TP1Debug\TP1Debug\TP1Debug\obj\Debug\TP1Debug.pdb

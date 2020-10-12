@@ -1,0 +1,16 @@
+Moodle :
+Notion de POO en C#
+Durée 45 min
+Tous documents autorisés.
+Outils communicants interdits
+Internet autorisé
+
+
+TP noté :
+développement en c# sous Visual Studio
+bases - approfondissements - WPF
+Durée 1H45
+Tous documents autorisés
+Outils communicants interdits
+Internet autorisé
+

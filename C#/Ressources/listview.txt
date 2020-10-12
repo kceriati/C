@@ -1,0 +1,16 @@
+<ListView.View>
+      <GridView>
+      <GridViewColumn Header="Proprio" Width="50" DisplayMemberBinding="{Binding Proprietaire}" />
+       <GridViewColumn Header="Modele" Width="90"  DisplayMemberBinding="{Binding Modele}" />
+       <GridViewColumn Header="Bridee" Width="40" >
+       <GridViewColumn.CellTemplate>
+             <DataTemplate>
+                 <CheckBox IsEnabled="false" IsChecked="{Binding Bridee}"/>
+             </DataTemplate>
+       </GridViewColumn.CellTemplate>
+       </GridViewColumn>
+       <GridViewColumn Header="Ch" Width="40" DisplayMemberBinding="{Binding Puissance}" />
+       <GridViewColumn Header="Km/h" Width="40" DisplayMemberBinding="{Binding VitesseMax}"/>
+      </GridView>
+</ListView.View>
+

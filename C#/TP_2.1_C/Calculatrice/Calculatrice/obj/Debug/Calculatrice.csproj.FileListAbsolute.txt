@@ -1,0 +1,6 @@
+C:\Users\ceriatik\Desktop\TP_2.1_C\Calculatrice\Calculatrice\bin\Debug\Calculatrice.dll
+C:\Users\ceriatik\Desktop\TP_2.1_C\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\ceriatik\Desktop\TP_2.1_C\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\ceriatik\Desktop\TP_2.1_C\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\ceriatik\Desktop\TP_2.1_C\Calculatrice\Calculatrice\obj\Debug\Calculatrice.dll
+C:\Users\ceriatik\Desktop\TP_2.1_C\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb

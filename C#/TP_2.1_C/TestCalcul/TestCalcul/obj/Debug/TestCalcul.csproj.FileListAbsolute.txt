@@ -1,0 +1,10 @@
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\bin\Debug\TestCalcul.exe.config
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\bin\Debug\TestCalcul.exe
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\bin\Debug\TestCalcul.pdb
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\bin\Debug\Calculatrice.dll
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\bin\Debug\Calculatrice.pdb
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\obj\Debug\TestCalcul.csprojAssemblyReference.cache
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\obj\Debug\TestCalcul.csproj.CoreCompileInputs.cache
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\obj\Debug\TestCalcul.csproj.CopyComplete
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\obj\Debug\TestCalcul.exe
+C:\Users\ceriatik\Desktop\TP_2.1_C\TestCalcul\TestCalcul\obj\Debug\TestCalcul.pdb
